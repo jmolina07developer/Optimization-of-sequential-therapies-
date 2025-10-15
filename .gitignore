@@ -1,0 +1,10 @@
+# CSV grandes
+Heuristic/prediccion_sigmoideX*.csv
+Heuristic/prediccion_sigmoideXtau*.csv
+Pareto front/finalpop_n10000_time300_less*.csv
+Extinction curve/trajectories_n10000.csv
+
+# Archivos temporales o de sistema
+*.DS_Store
+*.ipynb_checkpoints
+
